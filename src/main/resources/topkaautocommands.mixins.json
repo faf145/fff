@@ -1,0 +1,12 @@
+{
+    "required": false,
+    "package": "ru.autocommands.mixin",
+    "compatibilityLevel": "JAVA_21",
+    "mixins": [
+        "HitboxMixin",
+        "InvisMixin"
+    ],
+    "injectors": {
+       "defaultRequire": 1
+    }
+}
