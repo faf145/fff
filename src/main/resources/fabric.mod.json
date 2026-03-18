@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "id": "topkahitcolor",
+  "version": "1.0.0",
+  "name": "TopkaHitColor",
+  "description": "Customizable hit effects.",
+  "entrypoints": { "client": [ "me.zyouime.hitcolor.HitColorMod" ] },
+  "depends": { "fabricloader": ">=0.16.0", "minecraft": "~1.21.4" }
+}
